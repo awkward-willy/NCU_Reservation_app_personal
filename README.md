@@ -1,16 +1,18 @@
 # ncu_reservation_app
 
-A new Flutter project.
+A Flutter made App for the course "設計思考與永續科技"
 
-## Getting Started
+- ScreenShots:
+    <div style="display: flex; flex-wrap: wrap;justify-content: space-between; row-gap:10px">
+      <img src="./photos/LandingPage.png" width=30% alt="LandingPage">
+      <img src="./photos/LoginPage.png" width=30% alt="LoginPage">
+      <img src="./photos/BoardPage.png" width=30% alt="BoardPage">
+      <img src="./photos/ReservedSuccessful.png" width=30% alt="ReservedSuccessful">
+      <img src="./photos/DeleteButton.png" width=30% alt="DeleteButton">
+      <img src="./photos/CancelReservation.png" width=30% alt="CancelReservation">
+      <img src="./photos/ReservationPage.png" width=30% alt="ReservationPage">
+      <img src="./photos/TimeSelector.png" width=30% alt="TimeSelector">
+      <img src="./photos/DateSelector.png" width=30% alt="DateSelector">
+      <img src="./photos/PersonalPage.png" width=30% alt="PersonalPage">
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+    </div>
